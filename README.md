@@ -1,4 +1,6 @@
-# EVA
+# Ephemeral Value Adjusments (EVA)
+
+### [元論文のリンク](https://arxiv.org/abs/1810.08163)
 
 ## Usage
 * tain.py
